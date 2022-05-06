@@ -21,29 +21,34 @@
 <p align="center">
   <img alt="Часть z1.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z1.1.jpg">
 </p>
+
 ---
 * Часть z3.2  
 
 <p align="center">
   <img alt="Часть z3.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z3.2.jpg">
 </p>
+
 ---
 * Часть z4.1 
  
 <p align="center">
   <img alt="Часть z4.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.1.jpg">
 </p>
+
 ---
 * Часть z4.2  
 <p align="center">
   <img alt="Часть z4.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg">
 </p>
 ---
+
 * Часть z4.3  
 
 <p align="center">
   <img alt="Часть z4.3" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.3.jpg">
 </p>
+
 ---
 * Часть z4.4  
 
