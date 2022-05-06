@@ -29,8 +29,9 @@
 ![Часть z4.1](https://github.com/aggink/Course_work2/blob/main/Images/z4.1.jpg)
 ---
 * Часть z4.2  
-
-![Часть z4.2](https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg)
+<p align="center">
+  <img width="100%" alt="Часть z4.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg">
+</p>
 ---
 * Часть z4.3  
 
