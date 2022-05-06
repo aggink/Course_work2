@@ -5,6 +5,43 @@
 * Технология пользовательского интерфейса WinForms
 * Данные для выполенения расчетов хранятся в XML-файлах.
 * Результаты работы программы хранятся в XML-файлах.
+### Интерфейс программы
+* Главное окно   
+
+<p align="center">
+  <img alt="Главное окно" src="https://github.com/aggink/Course_work2/blob/main/Images/MainWindow.jpg">
+</p>
+
+---
+* Настройка узла  
+
+<p align="center">
+  <img alt="Настройка узла" src="https://github.com/aggink/Course_work2/blob/main/Images/TransmissionNodeSetup.jpg">
+</p>
+
+---
+* Настройка передачи 
+
+<p align="center">
+  <img alt="Настройка передачи" src="https://github.com/aggink/Course_work2/blob/main/Images/TransmissionSetup.jpg">
+</p>
+
+---
+* Установка параметров детали
+
+<p align="center">
+  <img alt="Установка параметров детали" src="https://github.com/aggink/Course_work2/blob/main/Images/SettingPartParameters.jpg">
+</p>
+
+---
+* Проектировочный расчет
+
+<p align="center">
+  <img alt="Проектировочный расчет" src="https://github.com/aggink/Course_work2/blob/main/Images/Design%D0%A1alculation.jpg">
+</p>
+
+---
+
 ### Декомпозиция
 * [Спецификации к декомпозиции](https://github.com/aggink/Course_work2/blob/main/Documents/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%BA%20%D0%B4%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%B7%D0%B8%D1%86%D0%B8%D0%B8.pdf)
 ---
