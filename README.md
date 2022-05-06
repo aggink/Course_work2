@@ -18,32 +18,44 @@
 ---
 * Часть z1.1  
 
-![Часть z1.1](https://github.com/aggink/Course_work2/blob/main/Images/z1.1.jpg)
+<p align="center">
+  <img alt="Часть z1.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z1.1.jpg">
+</p>
 ---
 * Часть z3.2  
 
-![Часть z3.2](https://github.com/aggink/Course_work2/blob/main/Images/z3.2.jpg)
+<p align="center">
+  <img alt="Часть z3.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z3.2.jpg">
+</p>
 ---
 * Часть z4.1 
  
-![Часть z4.1](https://github.com/aggink/Course_work2/blob/main/Images/z4.1.jpg)
+<p align="center">
+  <img alt="Часть z4.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.1.jpg">
+</p>
 ---
 * Часть z4.2  
 <p align="center">
-  <img width="100%" alt="Часть z4.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg">
+  <img alt="Часть z4.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg">
 </p>
 ---
 * Часть z4.3  
 
-![Часть z4.3](https://github.com/aggink/Course_work2/blob/main/Images/z4.3.jpg)
+<p align="center">
+  <img alt="Часть z4.3" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.3.jpg">
+</p>
 ---
 * Часть z4.4  
 
-![Часть z4.4](https://github.com/aggink/Course_work2/blob/main/Images/z4.4.jpg)
+<p align="center">
+  <img alt="Часть z4.4" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.4.jpg">
+</p>
 ---
 * Часть z4.5  
 
-![Часть z4.5](https://github.com/aggink/Course_work2/blob/main/Images/z4.5.jpg)
+<p align="center">
+  <img alt="Часть z4.5" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.5.jpg">
+</p>
 ---
 * Часть z5.1  
 
