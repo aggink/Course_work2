@@ -55,69 +55,115 @@
 <p align="center">
   <img alt="Часть z4.4" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.4.jpg">
 </p>
+
 ---
 * Часть z4.5  
 
 <p align="center">
   <img alt="Часть z4.5" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.5.jpg">
 </p>
+
 ---
 * Часть z5.1  
 
-![Часть z5.1](https://github.com/aggink/Course_work2/blob/main/Images/z5.1.jpg)
+<p align="center">
+  <img alt="Часть z5.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.1.jpg">
+</p>
+
 ---
 * Часть z5.2  
 
-![Часть z5.2](https://github.com/aggink/Course_work2/blob/main/Images/z5.2.jpg)
+<p align="center">
+  <img alt="Часть z5.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.2.jpg">
+</p>
+
 ---
 * Часть z5.3  
 
-![Часть z5.3](https://github.com/aggink/Course_work2/blob/main/Images/z5.3.jpg)
+<p align="center">
+  <img alt="Часть z5.3" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.3.jpg">
+</p>
+
 ---
 * Часть z5.9  
 
-![Часть z5.9](https://github.com/aggink/Course_work2/blob/main/Images/z5.9.jpg)
+<p align="center">
+  <img alt="Часть z5.9" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.9.jpg">
+</p>
+
 ---
 * Часть z5.10  
 
-![Часть z5.10](https://github.com/aggink/Course_work2/blob/main/Images/z5.10.jpg)
+<p align="center">
+  <img alt="Часть z5.10" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.10.jpg">
+</p>
+
 ---
 * Часть z5.11  
 
-![Часть z5.11](https://github.com/aggink/Course_work2/blob/main/Images/z5.11.jpg)
+<p align="center">
+  <img alt="Часть z5.11" src="https://github.com/aggink/Course_work2/blob/main/Images/z5.11.jpg">
+</p>
+
 ---
 * Часть z6.1  
 
-![Часть z6.1](https://github.com/aggink/Course_work2/blob/main/Images/z6.1.jpg)
+<p align="center">
+  <img alt="Часть z6.1" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.1.jpg">
+</p>
+
 ---
 * Часть z6.2  
 
-![Часть z6.2](https://github.com/aggink/Course_work2/blob/main/Images/z6.2.jpg)
+<p align="center">
+  <img alt="Часть z6.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.2.jpg">
+</p>
+
 ---
 * Часть z6.4  
 
-![Часть z6.4](https://github.com/aggink/Course_work2/blob/main/Images/z6.4.jpg)
+<p align="center">
+  <img alt="Часть z6.4" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.4.jpg">
+</p>
+
 ---
 * Часть z6.6  
 
-![Часть z6.6](https://github.com/aggink/Course_work2/blob/main/Images/z6.6.jpg)
+<p align="center">
+  <img alt="Часть z6.6" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.6.jpg">
+</p>
+
 ---
 * Часть z6.9  
 
-![Часть z6.9](https://github.com/aggink/Course_work2/blob/main/Images/z6.9.jpg)
+<p align="center">
+  <img alt="Часть z6.9" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.9.jpg">
+</p>
+
 ---
 * Часть z6.16  
 
-![Часть z6.16](https://github.com/aggink/Course_work2/blob/main/Images/z6.16.jpg)
+<p align="center">
+  <img alt="Часть z6.16" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.16.jpg">
+</p>
+
 ---
 * Часть z6.19  
 
-![Часть z6.19](https://github.com/aggink/Course_work2/blob/main/Images/z6.19.jpg)
+<p align="center">
+  <img alt="Часть z6.19" src="https://github.com/aggink/Course_work2/blob/main/Images/z6.19.jpg">
+</p>
+
 ---
 * Часть z7.20  
 
-![Часть z7.20](https://github.com/aggink/Course_work2/blob/main/Images/z7.20.jpg)
+<p align="center">
+  <img alt="Часть z7.20" src="https://github.com/aggink/Course_work2/blob/main/Images/z7.20.jpg">
+</p>
+
 ---
 * Часть z8.3  
 
-![Часть z8.3](https://github.com/aggink/Course_work2/blob/main/Images/z8.3.jpg)
+<p align="center">
+  <img alt="Часть z8.3" src="https://github.com/aggink/Course_work2/blob/main/Images/z8.3.jpg">
+</p>
