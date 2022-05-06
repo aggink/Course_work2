@@ -44,6 +44,7 @@
 <p align="center">
   <img alt="Часть z4.2" src="https://github.com/aggink/Course_work2/blob/main/Images/z4.2.jpg">
 </p>
+
 ---
 
 * Часть z4.3   
